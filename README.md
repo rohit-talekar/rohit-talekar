@@ -37,8 +37,8 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <!-- 3D Cyber / Tech GIF -->
-      <img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae596840facd.gif" width="100%" style="border-radius: 20px;" alt="3D Cyber GIF">
+      <!-- ALWAYS WORKING: Moving Computer Code GIF -->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 20px;" alt="Working Computer GIF">
     </td>
   </tr>
 </table>
