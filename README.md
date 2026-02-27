@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **bootstrap**
 
-- 👯 I’m looking to collaborate on **Web-dev**
+- 👯 I’m looking to collaborate on **AI-ML**
 
 - 🤝 I’m looking for help with **web-dev**
 
