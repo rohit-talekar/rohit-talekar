@@ -1,145 +1,252 @@
-# Hi 👋, I'm Rohit Talekar
+<!-- ==================== PREMIUM HEADER ==================== -->
 
-<h3 align="center">
-AI & Machine Learning Enthusiast | Python Developer | AIML Student
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Rohit%20Talekar&fontSize=65&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics%20%7C%20Frontend%20Developer&descAlignY=58" width="100%" />
+</div>
 
-<p align="center">
-Building AI Projects • Learning Full Stack Development • Open Source Contributor
-</p>
+<!-- ==================== SOCIALS ==================== -->
 
 <p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/rohit-talekar">
-    <img src="https://komarev.com/ghpvc/?username=rohit-talekar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<!-- ==================== TYPING ANIMATION ==================== -->
 
-## 🚀 About Me
+<div align="center">
 
-🎓 B.E. Computer Science (Artificial Intelligence & Machine Learning)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Python+Developer;Data+Analytics+Enthusiast;Building+Real+World+Projects;Future+AI+Engineer+🚀" />
 
-💡 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Full Stack Development
-
-🌱 Currently Learning:
-- Deep Learning
-- AI Agents
-- React.js
-- Generative AI
-
-🎯 Goal:
-To become an AI Engineer and build impactful AI products.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+🎓 Computer Science Engineering (AI & ML)
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Analytics & Data Science
+
+🌐 Building Modern Web Applications
+
+💡 Learning AI Agents & Generative AI
+
+🚀 Goal: Become a skilled AI Engineer
+
+📍 India
+
+---
+
+# 🏆 Achievements
+
+- 🧠 AI & Machine Learning Student
+- 🚀 Open Source Learner
+- 💻 Active GitHub Contributor
+- 📚 Exploring Generative AI
+- 🌱 Constantly Learning New Technologies
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Chatbot
+
+- NLP Based Chatbot
+- Python Development
+- Real Time Responses
+- Machine Learning Integration
+
+</td>
+
+<td width="50%">
+
+## 🌐 College Event Website
+
+- Event Registration System
+- React Frontend
+- Admin Dashboard
+- Database Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Student Performance Predictor
+
+- Machine Learning Model
+- Data Preprocessing
+- Accuracy Optimization
+- Prediction System
+
+</td>
+
+<td width="50%">
+
+## 📈 Data Analytics Dashboard
+
+- Interactive Visualizations
+- Data Cleaning
+- Dashboard Development
+- Analytics Insights
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧰 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql&theme=dark" />
 </p>
 
-### AI & Machine Learning
+### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### Web Development
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nextjs&theme=dark"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# ⚡ GitHub Analytics
 
-### 🤖 AI Chatbot
-Built an intelligent chatbot using Python and NLP techniques.
+<div align="center">
 
-### 📊 Student Performance Predictor
-Machine Learning model to predict student academic performance.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-talekar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🌐 College Event Website
-Full-stack platform for event registration and management.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-talekar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 📈 Data Analytics Dashboard
-Interactive dashboard built using Python and data visualization tools.
+</div>
 
 ---
 
-## 📜 Certifications
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-talekar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-talekar&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohit-talekar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📜 Certifications
 
 - Python Programming
 - Machine Learning Fundamentals
 - Data Analytics
+- Artificial Intelligence
 - Generative AI
 
 ---
 
-## 📈 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohit-talekar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-talekar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-talekar&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-talekar&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/rohit-talekar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
-### 💡 Quote
+<div align="center">
 
-> "Learning never exhausts the mind. Every project is a step closer to mastery."
-
----
+### 💡 "Success is built one commit at a time."
 
 ⭐ Thanks for visiting my profile!
+
+</div>
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+
+</div>
