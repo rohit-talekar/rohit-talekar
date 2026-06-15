@@ -58,7 +58,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">🧰 Arsenal & Tech Stack</h2>
+h2 align="center">🧰 Arsenal & Tech Stack</h2>
 
 <div align="center">
 
@@ -81,7 +81,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark"/>
 
 </div>
-
 ---
 
 <!-- ==================== DYNAMIC PROJECTS ==================== -->
